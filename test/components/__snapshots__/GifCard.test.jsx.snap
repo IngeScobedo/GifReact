@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifCard/> Debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="w-full h-[145px] rounded-md border border-slate-200 flex flex-col"
+  >
+    <div
+      class="h-[70%] w-full rounded-t-md"
+    >
+      <img
+        alt="Hunter x Hunter"
+        class="w-full h-full object-cover rounded-t-md"
+        src="https://media0.giphy.com/media/nbB1CV1fazlGo/giphy.gif?cid=e21578914ou1xinu6yqyf0zf8ouch0ms7d526axv20lj645s&rid=giphy.gif&ct=g"
+      />
+    </div>
+    <div
+      class="w-full h-[30%] flex flex-col items-center px-2 py-1 text-center justify-center bg-white rounded-b-md"
+    >
+      <h2
+        class="line-clamp-1"
+      >
+        Hunter x Hunter
+      </h2>
+    </div>
+  </div>
+</div>
+`;
